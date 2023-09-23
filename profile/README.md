@@ -4,6 +4,8 @@ We are a group (of one) of developers who are passionate about building awesome 
 
 And the best part is that we generated the last paragraph with AI.
 
+![The W Network Logo](https://yuuu.es/wp-content/uploads/2021/12/TheWNetwork-Banner-with-Name-1536x384.png)
+
 Wanna know more? Check our website at yuuu.es
 - [TelegrAd](https://telegrad.link/), a new way to advertise your channel and groups on Telegram. Earn credits by sharing ads on your channel and get money.
 - [Elsa](https://elsa.yuuu.es/), a telegram bot that helps you to maintain your group safe from undesirable people.
